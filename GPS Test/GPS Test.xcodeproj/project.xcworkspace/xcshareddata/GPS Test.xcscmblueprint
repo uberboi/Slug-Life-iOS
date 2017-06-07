@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF40E6B63841B32FE88C9D8396E700B56AF8DF14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF40E6B63841B32FE88C9D8396E700B56AF8DF14" : 9223372036854775807,
+    "8E4E47B6099008A1001DF19DB5EEF4EB253597C6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2AA51C1-F173-48E1-812C-E24C45F3AE12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF40E6B63841B32FE88C9D8396E700B56AF8DF14" : "GPS%20Test\/",
+    "8E4E47B6099008A1001DF19DB5EEF4EB253597C6" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GPS Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GPS Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/atokhi\/sluglife_cmps115.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E4E47B6099008A1001DF19DB5EEF4EB253597C6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com:atokhi\/sluglife_cmps115\/tree\/master\/SlugGroup2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF40E6B63841B32FE88C9D8396E700B56AF8DF14"
+    }
+  ]
+}
